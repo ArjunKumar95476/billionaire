@@ -1,0 +1,26 @@
+.red {
+    background-color: rgb(222, 3, 3);
+    text-decoration: none;
+    padding: 4px 10px;
+    box-shadow: 0 2px 2px rgb(158, 155, 155);
+    color: rgb(246, 240, 240);
+    text-shadow: 1px 1px 1px rgb(5, 5, 5);
+    border-radius: 6px;
+
+}
+
+.design {
+    text-decoration: none;
+    color: white;
+    padding: 20px 10px;
+    height: 30px;
+
+}
+
+.bgcolor {
+    background-color: rgb(5, 18, 25);
+}
+
+li {
+    height: auto;
+}

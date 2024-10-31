@@ -1,0 +1,23 @@
+.oprahBody {
+    min-height: 80vh;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.oprahCard {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 0;
+}
+
+.image {
+    box-shadow: 2px 2px 2px black, -2px -2px 2px black;
+    max-height: 450px;
+    min-height: 300px;
+    max-width: 300px;
+    text-align: center;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+
+}
